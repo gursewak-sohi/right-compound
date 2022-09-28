@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+// Bootstrap Grid
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import './components/magnify';
+@import './components/owl.theme.default.min';
+@import './components/owl.carousel.min';
+@import './components/nice-select';
+@import './components/rangeSlider';
+@import './components/nice-select';
+// Page SCSS
+@import './components/pages';
+// Responsive SCSS
+@import './components/responsive';

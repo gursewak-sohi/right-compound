@@ -1,0 +1,259 @@
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1220px;
+    }
+}
+
+@media all and (max-width:1199px) {
+    .full_slider .owl-buttons {
+        position: absolute;
+        top: -28px;
+    }
+    .feature_heading h2 {
+        margin-bottom: 3px;
+    }
+    .full_slider .owl-nav {
+        top: -37px;
+    }
+    .hero_section {
+        padding-top: 220px;
+        padding-bottom: 160px;
+    }
+    .feature_search_section .al_feature .single_f_feature {
+        align-items: flex-start;
+    }
+    .feature_search_section .al_feature .single_f_feature .feature_con {
+        padding: 0 20px;
+    }
+    .feature_search_section .submit_button iframe {
+        width: 100%;
+        height: 200px;
+    }
+    .details_section .all_details .compound_details .compound_flex {
+        display: block;
+    }
+    .details_section .all_details .compound_details .compound_flex .single_details {
+        max-width: 100%;
+        width: 100%;
+    }
+    .all_contact {
+        max-width: 100%;
+        margin-top: 40px;
+    }
+    .all_contact .single_contact iframe {
+        width: 100%;
+        min-height: 350px;
+    }
+    .video iframe {
+        min-height: 350px !important;
+    }
+}
+
+@media all and (max-width:991px) {
+    .hero_section {
+        padding-top: 227px;
+        padding-bottom: 153px;
+    }
+    .feature_search_section .submit_button iframe {
+        width: 100%;
+        height: 300px;
+    }
+    .feature_right11 {
+        margin-top: 30px;
+    }
+    .details_section .all_details .compound_details {
+        padding: 11px 0;
+    }
+    .details_section .all_details .compound_details h2 {
+        font-size: 20px;
+        margin-bottom: 15px;
+    }
+}
+
+@media all and (min-width:768px) {
+    .header_section .container-fluid .all_header .header_left .menu ul {
+        display: flex !important;
+    }
+}
+
+@media all and (max-width:767px) {
+    .login-xs {
+        display: block;
+    }
+    .header_section .container-fluid .all_header .header_right .right_menu a:first-child {
+        display: none;
+    }
+    .header_section {
+        height: 60px;
+    }
+    .menu-btn {
+        position: relative;
+        display: block;
+    }
+    .header_section .container-fluid .all_header .header_left .menu ul {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: block;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        position: absolute;
+        background: rgba(0, 0, 0, 0.8);
+        width: 100%;
+        padding: 10px 25px;
+        left: 0;
+        right: 0;
+        top: 56px;
+        display: none;
+    }
+    .header_section .container-fluid .all_header {
+        position: relative;
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .header_section .container-fluid .all_header .header_left .menu ul li {
+        padding: 10px 0;
+    }
+    .header_section .container-fluid .all_header .header_left .menu ul li:not(:last-child) {
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+    .hero_section {
+        padding-top: 181px;
+        padding-bottom: 124px;
+    }
+    .single_search {
+        -webkit-box-flex: 0;
+        -ms-flex: 0 0 18%;
+        flex: 0 0 100%;
+        text-align: left;
+        max-width: 100%;
+    }
+    .search_area .single_search {
+        margin-bottom: 19px !important;
+    }
+    .single_search.single_search3 {
+        margin-left: 0;
+    }
+    .range span {
+        width: 100%;
+    }
+    .header_full_con .hero_content h1 {
+        font-size: 31px;
+        line-height: 27px;
+    }
+    .al_feature a {
+        flex: 0 0 48%;
+    }
+    .recapta img {
+        width: auto;
+        height: 63px;
+    }
+    .feature_search_section .al_feature .single_f_feature {
+        display: block;
+    }
+    .feature_search_section .al_feature .single_f_feature .feature_img {
+        max-width: 100%;
+        width: 100%;
+        border-radius: 4px;
+        height: auto;
+        margin-bottom: 16px;
+    }
+    .feature_search_section .al_feature .single_f_feature .feature_con {
+        padding: 0;
+    }
+    #sync1 .item {
+        background: #0c83e7;
+        color: #FFF;
+        border-radius: 3px;
+        text-align: center;
+        height: 221px;
+        position: relative;
+    }
+    #sync1 .item {
+        height: 300px;
+    }
+    .description span {
+        flex-wrap: wrap;
+    }
+    .description.description2 span b {
+        flex: 0 0 100%;
+    }
+    .description.description2 span a {
+        margin-top: 14px;
+    }
+    .header_section .container-fluid .all_header .header_right .right_menu a:last-child {
+        margin-right: 20px;
+    }
+    .rs-container .rs-pointer {
+        width: 14px;
+        height: 14px;
+        top: 20px;
+    }
+}
+
+@media all and (max-width:575px) {
+    .header_section .container-fluid .all_header .header_left .menu ul {
+        top: 49px;
+    }
+    .header_section .container-fluid .all_header .header_left .logo a img {
+        height: auto;
+        width: 103px;
+    }
+    .header_section .container-fluid .all_header .header_right .right_menu a:last-child {
+        font-size: 12px;
+        padding: 7px;
+        margin-left: 7px;
+        margin-right: 7px;
+    }
+    .header_section .container-fluid .all_header .header_right .right_menu a {
+        font-size: 12px;
+    }
+    .hero_section {
+        padding-top: 156px;
+        padding-bottom: 67px;
+    }
+    .al_feature a {
+        flex: 0 0 100%;
+    }
+    #sync1 .item {
+        height: 250px;
+    }
+    #sync2 .item img {
+        width: 100%;
+        height: 42px;
+        border-radius: 4px;
+        border: 1px solid #62c4f2;
+    }
+}
+
+@media all and (max-width:450px) {
+    .bars .bar {
+        display: block;
+        width: 22px;
+        height: 1px;
+        margin: 6px;
+    }
+    .header_section .container-fluid .all_header .header_right .right_menu a {
+        font-size: 10px;
+    }
+    .header_section .container-fluid .all_header .header_left .logo {
+        margin-right: 0;
+    }
+    .header_section .container-fluid .all_header .header_left .menu ul {
+        top: 48px;
+    }
+    .header_full_con .hero_content h1 {
+        font-size: 31px;
+        line-height: 37px;
+    }
+    .hero_section {
+        padding-top: 129px;
+        padding-bottom: 52px;
+    }
+    #sync1 .item {
+        height: 164px;
+    }
+    .details_section .all_details .compound_details h2 {
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+}
