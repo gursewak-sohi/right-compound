@@ -13160,6 +13160,9 @@ menu-btn {
     height: 14px;
     top: 20px;
   }
+  .feature_heading h2, .feature_heading .h2 {
+    padding-right: 50px;
+  }
 }
 @media all and (max-width: 575px) {
   .header_section .container-fluid .all_header .header_left .menu ul, .header_section .container-sm .all_header .header_left .menu ul, .header_section .container-md .all_header .header_left .menu ul, .header_section .container-lg .all_header .header_left .menu ul, .header_section .container-xl .all_header .header_left .menu ul, .header_section .container-xxl .all_header .header_left .menu ul {
